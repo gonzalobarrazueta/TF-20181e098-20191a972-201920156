@@ -7,7 +7,7 @@ Para este trabajo, se implementará un mapa de calles donde podremos hallar dife
     
     - ***Correo***: u20181e098@upc.edu.pe
     
-    - ***Código de alumno***: u20181e098
+    - ***Código de alumno***: u20181e098 
 
 2. __Gonzalo Barrazueta Vilcachagua__
 
