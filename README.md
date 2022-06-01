@@ -3,7 +3,7 @@ Para este trabajo, se implementará un mapa de calles donde podremos hallar dife
 ## Integrantes 🧑🏻‍🚀
 1. __Rodrigo Alejandro Raymundo Guevara__ (u20181e098)
   
-   *Correo*:
+   *Correo*: Rodrigo_ray_24@hotmail.com
 
 2. __Gonzalo Barrazueta Vilcachagua__ (u20191a972)
    
@@ -11,4 +11,4 @@ Para este trabajo, se implementará un mapa de calles donde podremos hallar dife
 
 3. __Oscar Daniel De la Cruz Jara__ (201920156)
 
-   *Correo*:
+   *Correo*: oscardaniel152002@gmail.com
