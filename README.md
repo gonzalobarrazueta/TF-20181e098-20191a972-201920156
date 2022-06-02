@@ -17,6 +17,10 @@ Para este trabajo, se implementará un mapa de calles donde podremos hallar dife
     
     - ***Código de alumno***: u20191a972
 
-3. __Oscar Daniel De la Cruz Jara__ (201920156)
+3. __Oscar Daniel De la Cruz Jara__
 
-   *Correo*: oscardaniel152002@gmail.com
+   - ***Usuario de Github***: @oscar-byte15
+    
+   - ***Correo***: u201920156@upc.edu.pe
+    
+   - ***Código de alumno***: u201920156
