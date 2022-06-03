@@ -221,10 +221,10 @@ avenida los dominicos,auxiliar avenida canta callao,-11.990.645,-77.107.328
 avenida alejandro bertello bollati,auxiliar avenida canta callao,-11.996.519,-77.112.708
 avenida alejandro bertello bollati,avenida canta callao,-11.996.634,-77.112.651
 avenida alejandro bertello bollati,avenida pacasmayo,-11.992.648,-77.114.114
-avenida alejandro bertello bollati,avenida los pinos,-11.993.062,-77.114.103
+avenida alejandro bertello bollati,avenida los pinos,-11.992.103,-77.114.261
 avenida alejandro bertello bollati,calle florence,-11.990.911,-77.114.183
 avenida alejandro bertello bollati,avenida carlos izaguirre,-11.987.946,-77.114.419
-avenida alejandro bertello bollati,calle san carlos,,
+avenida alejandro bertello bollati,calle san carlos,-11.986.600,-77.115.357
 avenida alejandro bertello bollati,calle las palmeras 2,-11.997.446,-77.112.266
 avenida alejandro bertello bollati,calle 22,-11.998.373,-77.111.787
 avenida alejandro bertello bollati,alisos,-12.001.738,-77.110.327
@@ -239,176 +239,176 @@ huascaran,avenida los alisos,-11.981.165,-77.099.852
 huascaran,jiron los pinares,-11.979.822,-77.098.508
 huascaran,calle los zafiros,-11.976.318,-77.095.029
 calle los zafiros,huascaran,-11.976.318,-77.095.029
-calle los zafiros,calle las perlas,,
-calle las perlas,calle los zafiros,,
+calle los zafiros,calle las perlas,-11.976.075,-77.094.817
+calle las perlas,calle los zafiros,-11.976.075,-77.094.817
 girasoles,avenida los alisos,-11.979.833,-77.107.978
-girasoles,libertad,,
-girasoles,los claveles,,
+girasoles,libertad,-11.980.252,-77.108.306
+girasoles,los claveles,-11.981.086,-77.108.950
 las margaritas,avenida los alisos,-11.979.182,-77.109.206
 las margaritas,avenida santa rosa,-11.981.914,-77.110.622
 santa isabel,avenida los alisos,-11.978.613,-77.110.149
-santa isabel,santa clara,,
-santa isabel,santa sofia,,
+santa isabel,santa clara,-11.979.006,-77.110.513
+santa isabel,santa sofia,-11.979.319,-77.110.770
 santa isabel,avenida santa rosa,-11.980.667,-77.112.073
-avenida 200 millas,santa clara,,
-g,avenida los alisos,-11.977.981,-77.111.358
+avenida 200 millas,santa clara,-11.978.400,-77.111.700
+avenida 200 millas,avenida los alisos,-11.977.981,-77.111.358
 san benito de palermo,avenida santa rosa,-11.981.946,-77.110.641
-san benito de palermo,san felipe,,
+san benito de palermo,san felipe,-11.982.356,-77.110.855
 san benito de palermo,san pablo,-11.982.819,-77.111.083
-santa maria,avenida santa rosa,,
-santa maria,santa sofia,,
-santa sofia,santa isabel,,
-santa sofia,santa clara,,
-santa sofia,santa maria,,
-santa clara,santa sofia,,
-santa clara,avenida 200 millas,,
+santa maria,avenida santa rosa,-11.980.909,-77.111.780
+santa maria,santa sofia,-11.979.480,-77.110.445
+santa sofia,santa isabel,-11.979.319,-77.110.770
+santa sofia,santa clara,-11.979.409,-77.110.579
+santa sofia,santa maria,-11.979.480,-77.110.445
+santa clara,santa sofia,-11.979.409,-77.110.579
+santa clara,avenida 200 millas,-11.978.400,-77.111.700
 orquideas,arequipa,-11.985.553,-77.106.347
 orquideas,avenida santa rosa,-11.983.866,-77.106.083
-libertad,girasoles,,
-libertad,campanillas,,
-campanillas,libertad,,
+libertad,girasoles,-11.980.252,-77.108.306
+libertad,campanillas,-11.980.481,-77.107.936
+campanillas,libertad,-11.980.481,-77.107.936
 tumbes,san pablo,-11.982.008,-77.112.036
-san felipe,san benito de palermo,,
+san felipe,san benito de palermo,-11.982.362,-77.110.856
 san felipe,san pablo,-11.981.201,-77.112.249
 calle carhuaz,calle los algarrobos,,
 calle las margaritas,pasaje las amapolas,-11.972.004,-77.117.577
 las torres de los olivos,avenida josefina,-11.954.023,-77.105.622
 pisac,auxiliar avenida canta callao,-11.996.931,-77.113.209
-pisac,calle ollanta,,
-calle ollanta,pisac,,
-calle ollanta,pasaje cajamarca,,
-calle ollanta,avenida canada,,
-pasaje cajamarca,calle ollanta,,
-pasaje cajamarca,pasaje piura,,
-pasaje cajamarca,pasaje tambomachay,,
-pasaje cajamarca,jose francisco,,
-pasaje cajamarca,pucura,,
-pasaje cajamarca,pasaje jorge colque,,
+pisac,calle ollanta,-11.996.182,-77.115.086
+calle ollanta,pisac,-11.996.182,-77.115.086
+calle ollanta,pasaje cajamarca,-11.996.550,-77.115.479
+calle ollanta,avenida canada,-11.997.395,-77.115.943
+pasaje cajamarca,calle ollanta,-11.996.550,-77.115.479
+pasaje cajamarca,pasaje piura,-11.996.350,-77.115.938
+pasaje cajamarca,pasaje tambomachay,-11.996.656,-77.117.328
+pasaje cajamarca,jose francisco,-11.997.307,-77.118.185
+pasaje cajamarca,pucura,-11.997.900,-77.118.757
+pasaje cajamarca,pasaje jorge colque,-11.998.866,-77.119.294
 avenida canada,avenida canta callao,-11.998.442,-77.114.453
 avenida canada,auxiliar avenida canta callao,-11.998.342,-77.114.605
-avenida canada,avenida san juan macias,,
-avenida canada,calle ollanta,,
-avenida canada,pasaje tambomachay,,
-avenida canada,avenida elmer faucett,,
-pasaje piura,pasaje cajamarca,,
-pasaje piura,pasaje tambomachay,,
-pasaje tambomachay,pasaje arequipa,,
-pasaje tambomachay,pasaje cajamarca,,
-pasaje tambomachay,pasaje piura,,
-pasaje tambomachay,avenida canada,,
-pasaje tambomachay,pasaje tumbes,,
+avenida canada,avenida san juan macias,-11.998.320,-77.114.663
+avenida canada,calle ollanta,-11.997.395,-77.115.943
+avenida canada,pasaje tambomachay,-11.997.467,-77.117.070
+avenida canada,avenida elmer faucett,-11.999.807,-77.118.672
+pasaje piura,pasaje cajamarca,-11.996.350,-77.115.938
+pasaje piura,pasaje tambomachay,-11.997.072,-77.117.203
+pasaje tambomachay,pasaje arequipa,-11.995.429,-77.117.742
+pasaje tambomachay,pasaje cajamarca,-11.996.656,-77.117.328
+pasaje tambomachay,pasaje piura,-11.997.072,-77.117.203
+pasaje tambomachay,avenida canada,-11.997.467,-77.117.070
+pasaje tambomachay,pasaje tumbes,-11.997.971,-77.116.889
 jose francisco,pasaje piura,,
-jose francisco,pasaje cajamarca,,
-pucura,avenida canada,,
-pucura,pasaje piura,,
-pucura,pasaje cajamarca,,
-pucura,avenida cuzco,,
-pasaje jorge colque,pasaje cajamarca,,
-pasaje jorge colque,pasaje piura,,
-avenida san juan macias,avenida canada,,
-avenida san juan macias,jiron tacna,,
-avenida san juan macias,pasaje piura,,
-avenida san juan macias,avenida cuzco,,
+jose francisco,pasaje cajamarca,-11.997.307,-77.118.185
+pucura,avenida canada,-11.997.752,-77.115.443
+pucura,pasaje piura,-11.998.027,-77.118.407
+pucura,pasaje cajamarca,-11.997.900,-77.118.757
+pucura,avenida cuzco,-11.997.054,-77.120.448
+pasaje jorge colque,pasaje cajamarca,-11.998.866,-77.119.294
+pasaje jorge colque,pasaje piura,-11.999.015,-77.118.915
+avenida san juan macias,avenida canada,-11.998.320,-77.114.663
+avenida san juan macias,jiron tacna,-11.999.205,-77.116.083
+avenida san juan macias,pasaje piura,-11.999.371,-77.119.037
+avenida san juan macias,avenida cuzco,-11.998.619,-77.121.159
 avenida elmer faucett,avenida canta callao,,
-avenida elmer faucett,avenida canada,,
-avenida elmer faucett,avenida cuzco,,
-pasaje arequipa,pasaje tambomachay,,
-pasaje arequipa,avenida cuzco,,
-pasaje arequipa,alameda santa rosa,,
-pasaje tumbes,pasaje tambomachay,,
-avenida cuzco,alameda santa rosa,,
-avenida cuzco,pucura,,
-avenida cuzco,avenida san juan macias,,
-avenida cuzco,avenida elmer faucett,,
-alameda santa rosa,avenida cuzco,,
-alameda santa rosa,pasaje arequipa,,
-jiron tacna,avenida san juan macias,,
-jiron tacna,pucura,,
-avenida los pinos,avenida alejandro bertello bollati,-11.993.062,-77.114.103
-avenida los pinos,pisac,,
-calle san carlos,avenida alejandro bertello bollati,,
+avenida elmer faucett,avenida canada,-11.999.807,-77.118.672
+avenida elmer faucett,avenida cuzco,-11.998.934,-77.121.245
+pasaje arequipa,pasaje tambomachay,-11.995.429,-77.117.742
+pasaje arequipa,avenida cuzco,-11.995.824,-77.119.366
+pasaje arequipa,alameda santa rosa,-11.994.901,-77.116.027
+pasaje tumbes,pasaje tambomachay,-11.997.971,-77.116.889
+avenida cuzco,alameda santa rosa,-11.994.450,-77.115.865
+avenida cuzco,pucura,-11.997.054,-77.120.448
+avenida cuzco,avenida san juan macias,-11.998.619,-77.121.159
+avenida cuzco,avenida elmer faucett,-11.998.934,-77.121.245
+alameda santa rosa,avenida cuzco,-11.994.450,-77.115.865
+alameda santa rosa,pasaje arequipa,-11.994.901,-77.116.027
+jiron tacna,avenida san juan macias,-11.999.205,-77.116.083
+jiron tacna,pucura,-11.998.405,-77.116.478
+avenida los pinos,avenida alejandro bertello bollati,-11.992.103,-77.114.261
+avenida los pinos,pisac,-11.992.143,-77.114.730
+calle san carlos,avenida alejandro bertello bollati,-11.986.600,-77.115.357
 calle florence,avenida alejandro bertello bollati,-11.990.911,-77.114.183
-calle florence,manzana d,,
-manzana d,calle florence,,
+calle florence,manzana d,-11.991.751,-77.109.624
+manzana d,calle florence,-11.991.751,-77.109.624
 calle las palmeras 2,avenida alejandro bertello bollati,-11.997.446,-77.112.266
 calle las palmeras 2,calle 22,,
-calle las palmeras 2,calle las lupuna 3,,
-calle las palmeras 2,calle las caobas,,
-calle las palmeras 2,calle los cibeles,,
-calle las palmeras 2,pasaje las hiedras,,
+calle las palmeras 2,calle las lupuna 3,-11.997.217,-77.111.715
+calle las palmeras 2,calle las caobas,-11.996.895,-77.111.477
+calle las palmeras 2,calle los cibeles,-11.996.552,-77.111.206
+calle las palmeras 2,pasaje las hiedras,-11.996.171,-77.110.952
 calle las palmeras 2,avenida pacasmayo,-11.994.703,-77.109.775
 calle 22,avenida alejandro bertello bollati,-11.998.373,-77.111.787
-calle 22,calle las lupuna 3,,
-calle 22,calle las caobas,,
+calle 22,calle las lupuna 3,-11.998.108,-77.111.310
+calle 22,calle las caobas,-11.997.904,-77.110.870
 calle miguel grau,calle alfonso ugarte,-11.974.928,-77.101.482
 alisos,avenida alejandro bertello bollati,-12.001.738,-77.110.327
-alisos,los alhelies,,
-alisos,alfa,,
-alisos,guirnaldas,,
-alisos,las colinas,,
+alisos,los alhelies,-12.001.988,-77.110.877
+alisos,alfa,-12.002.379,-77.111.706
+alisos,guirnaldas,-12.002.789,-77.112.578
+alisos,las colinas,-12.003.609,-77.114.336
 avenida colectora,avenida alejandro bertello bollati,-12.002.774,-77.109.503
-avenida colectora,calle las lupuna 3,,
+avenida colectora,calle las lupuna 3,-12.002.532,-77.109.005
 avenida colectora,pasaje los datiles,,
-avenida colectora,avenida pacasmayo,,
-avenida colectora,chimabamba,,
+avenida colectora,avenida pacasmayo,-12.001.102,-77.106.155
+avenida colectora,chimabamba,-12.000.361,-77.104.465
 los cedros,avenida alejandro bertello bollati,-12.003.430,-77.109.477
-los cedros,guirnaldas,,
-los cedros,avenida elmer faucett,,
-avenida boca negra,avenida elmer faucett,,
+los cedros,guirnaldas,-12.004.502,-77.111.695
+los cedros,avenida elmer faucett,-12.005.642,-77.114.068
+avenida boca negra,avenida elmer faucett,-12.013.537,-77.110.130
 avenida boca negra,avenida alejandro bertello bollati,-12.009.775,-77.106.032
-avenida boca negra,avenida pacasmayo,,
-avenida boca negra,pasaje los datiles,,
-avenida boca negra,avenida los dominicos,,
+avenida boca negra,avenida pacasmayo,-12.008.219,-77.102.725
+avenida boca negra,pasaje los datiles,-12.007.774,-77.101.831
+avenida boca negra,avenida los dominicos,-12.006.563,-77.098.859
 calle misionero carbajal,avenida alejandro bertello bollati,-12.014.443,-77.103.693
 misionero vega,avenida alejandro bertello bollati,-12.016.129,-77.102.873
-avenida tomas valle,avenida alejandro bertello bollati,,
-avenida tomas valle,avenida peru,,
-avenida tomas valle,auxiliar avenida tomas valle,,
-avenida tomas valle,avenida los proceres,,
+avenida tomas valle,avenida alejandro bertello bollati,-12.019.434,-77.101.253
+avenida tomas valle,avenida peru,12.019.614,-77.101.152
+avenida tomas valle,auxiliar avenida tomas valle,-12.021.463,-77.104.821
+avenida tomas valle,avenida los proceres,-12.012.224,-77.087.204
 avenida peru,avenida alejandro bertello bollati,-12.019.792,-77.101.407
-calle las lupuna 3,calle las palmeras 2,,
-calle las lupuna 3,calle 22,,
-calle las lupuna 3,avenida colectora,,
-calle las caobas,calle las palmeras 2,,
-calle los cibeles,calle las palmeras 2,,
-calle los cibeles,pasaje los datiles,,
-pasaje las hiedras,calle las palmeras 2,,
-pasaje las hiedras,pasaje los datiles,,
-pasaje los datiles,calle los cibeles,,
-pasaje los datiles,pasaje las hiedras,,
-los alhelies,alisos,,
-los alhelies,los pinos,,
-alfa,olivar,,
-alfa,los robles,,
-alfa,alisos,,
-alfa,los pinos,,
-olivar,alfa,,
-guirnaldas,los robles,,
-guirnaldas,alisos,,
-guirnaldas,palmeras,,
-guirnaldas,los pinos,,
-guirnaldas,los cedros,,
+calle las lupuna 3,calle las palmeras 2,-11.997.217,-77.111.715
+calle las lupuna 3,calle 22,-11.998.108,-77.111.310
+calle las lupuna 3,avenida colectora,-12.002.532,-77.109.005
+calle las caobas,calle las palmeras 2,-11.996.895,-77.111.477
+calle los cibeles,calle las palmeras 2,-11.996.552,-77.111.206
+calle los cibeles,pasaje los datiles,-11.997.220,-77.110.428
+pasaje las hiedras,calle las palmeras 2,-11.996.171,-77.110.952
+pasaje las hiedras,pasaje los datiles,-11.996.755,-77.110.218
+pasaje los datiles,calle los cibeles,-11.997.220,-77.110.428
+pasaje los datiles,pasaje las hiedras,-11.996.755,-77.110.218
+los alhelies,alisos,-12.001.988,-77.110.877
+los alhelies,los pinos,-12.003.227,-77.110.226
+alfa,olivar,-12.001.563,-77.112.093
+alfa,los robles,-12.001.950,-77.111.918
+alfa,alisos,-12.002.379,-77.111.706
+alfa,los pinos,-12.003.644,-77.111.100
+olivar,alfa,-12.001.563,-77.112.093
+guirnaldas,los robles,-12.002.372,-77.112.779
+guirnaldas,alisos,-12.002.789,-77.112.578
+guirnaldas,palmeras,-12.003.229,-77.112.377
+guirnaldas,los pinos,-12.004.061,-77.111.961
+guirnaldas,los cedros,-12.004.502,-77.111.695
 las colinas,avenida elmer faucett,,
-las colinas,los robles,,
-las colinas,alisos,,
-las colinas,palmeras,,
-las colinas,los pinos,,
-palmeras,las colinas,,
-palmeras,guirnaldas,,
-los pinos,las colinas,,
-los pinos,guirnaldas,,
-los pinos,alfa,,
-los pinos,los alhelies,,
-chimabamba,avenida colectora,,
-chimabamba,avenida pacasmayo,,
-avenida los proceres,auxiliar avenida angelica gamarra,,
-avenida los proceres,avenida angelica gamarra,,
-avenida los proceres,auxiliar avenida tomas valle,,
-avenida los proceres,avenida el olivar,,
+las colinas,los robles,-12.003.181,-77.114.532
+las colinas,alisos,-12.003.609,-77.114.336
+las colinas,palmeras,-12.004.041,-77.114.126
+las colinas,los pinos,-12.004.897,-77.113.701
+palmeras,las colinas,-12.004.041,-77.114.126
+palmeras,guirnaldas,-12.003.229,-77.112.377
+los pinos,las colinas,-12.004.897,-77.113.701
+los pinos,guirnaldas,-12.004.061,-77.111.961
+los pinos,alfa,-12.003.644,-77.111.100
+los pinos,los alhelies,-12.003.227,-77.110.226
+chimabamba,avenida colectora,-12.000.361,-77.104.465
+chimabamba,avenida pacasmayo,-11.999.352,-77.107.055
+avenida los proceres,auxiliar avenida angelica gamarra,-12.009.281,-77.087.561
+avenida los proceres,avenida angelica gamarra,-12.009.587,-77.087.510
+avenida los proceres,auxiliar avenida tomas valle,-12.012.056,-77.087.236
+avenida los proceres,avenida el olivar,-12.013.499,-77.087.179
 avenida los proceres,jiron los codornices,,
-avenida los proceres,calle las retamas,,
-avenida los proceres,jiron los sauces,,
-avenida los proceres,jiron pedro genaro delgado,,
+avenida los proceres,calle las retamas,-12.014.354,-77.087.096
+avenida los proceres,jiron los sauces,-12.015.574,-77.086.795
+avenida los proceres,jiron pedro genaro delgado,-12.016.031,-77.086.750
 avenida los proceres,manuel telleria,,
 avenida los proceres,jose santos chocano,,
 avenida los proceres,domingo nieto,,
@@ -419,25 +419,25 @@ avenida los proceres,avenida jose granda,,
 avenida los proceres,jose m eguren,,
 auxiliar avenida angelica gamarra,auxiliar avenida tomas valle,,
 auxiliar avenida angelica gamarra,manuel bonilla,,
-auxiliar avenida angelica gamarra,avenida los proceres,,
+auxiliar avenida angelica gamarra,avenida los proceres,-12.009.281,-77.087.561
 avenida angelica gamarra,manuel bonilla,,
-avenida angelica gamarra,avenida los proceres,,
-auxiliar avenida tomas valle,avenida los proceres,,
-avenida el olivar,avenida los proceres,,
+avenida angelica gamarra,avenida los proceres,-12.009.587,-77.087.510
+auxiliar avenida tomas valle,avenida los proceres,-12.012.056,-77.087.236
+avenida el olivar,avenida los proceres,-12.013.499,-77.087.179
 jiron los codornices,avenida los proceres,,
 jiron los codornices,calle cesar vallejo,,
 calle cesar vallejo,avenida el olivar,,
 calle cesar vallejo,auxiliar avenida tomas valle,,
 calle cesar vallejo,jiron los codornices,,
 calle cesar vallejo,jiron los sauces,,
-calle las retamas,avenida los proceres,,
+calle las retamas,avenida los proceres,-12.014.354,-77.087.096
 calle las retamas,calle las retamas,,
 calle las retamas,magnolias,,
 calle las retamas,luis alberto sanchez,,
 calle las retamas,ferre,,
-jiron los sauces,avenida los proceres,,
+jiron los sauces,avenida los proceres,-12.015.574,-77.086.795
 jiron los sauces,calle cesar vallejo,,
-jiron pedro genaro delgado,avenida los proceres,,
+jiron pedro genaro delgado,avenida los proceres,-12.016.031,-77.086.750
 avenida german aguirre,avenida los proceres,,
 avenida german aguirre,domingo nieto,,
 avenida german aguirre,jose m eguren,,
