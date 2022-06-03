@@ -65,16 +65,16 @@ virgen del rosario,avenida naranjal,-11.970.135,-77.091.432
 calle llata,avenida naranjal,-11.971.639,-77.089.780
 san nicolas,el sol de naranjal,-11.962.610,-77.107.892
 san nicolas,avenida paramonga,-11.965.502,-77.111.321
-san nicolas,los nogales,,
-san nicolas,el olivar,,
-san nicolas,las gardenias,,
-san nicolas,calle los jazmines,-11.973.643,-77.117.652
+san nicolas,los nogales,-11.965.253,-77.110.871
+san nicolas,el olivar,-11.964.710,-77.110.226
+san nicolas,las gardenias,-11.964.426,-77.109.874
+san nicolas,calle los jazmines,-11.972.478,-77.116.558
 san nicolas,los geranios 1,-11.973.209,-77.117.334
 san nicolas,avenida los alisos,-11.973.644,-77.117.656
 los eucaliptos,el sol de naranjal,-11.964.076,-77.106.260
-los eucaliptos,las gardenias,,
-los eucaliptos,el olivar,,
-los eucaliptos,los nogales,,
+los eucaliptos,las gardenias,-11.965.871,-77.108.609
+los eucaliptos,el olivar,-11.966.105,-77.108.982
+los eucaliptos,los nogales,-11.966.515,-77.109.605
 los eucaliptos,avenida paramonga,-11.966.703,-77.110.116
 los claveles,el sol de naranjal,-11.966.339,-77.103.778
 calle las palmas,el sol de naranjal,-11.967.033,-77.102.723
@@ -83,178 +83,178 @@ circa patria,el sol de naranjal,-11.967.534,-77.101.308
 avenida central,el sol de naranjal,-11.967.833,-77.099.961
 avenida central,el olivar,,
 avenida pacasmayo,el sol de naranjal,-11.968.343,-77.097.000
-avenida pacasmayo,el olivar,,
-avenida pacasmayo,calle bolognesi,,
-avenida pacasmayo,avenida los alisos,,
-avenida pacasmayo,avenida santa rosa,,
-avenida pacasmayo,san pablo,,
-avenida pacasmayo,avenida antigua pacasmayo,,
-avenida pacasmayo,avenida carlos izaguirre,,
-avenida pacasmayo,calle las palmeras 2,,
+avenida pacasmayo,el olivar,-11.972.454,-77.102.327
+avenida pacasmayo,calle bolognesi,-11.973.189,-77.102.973
+avenida pacasmayo,avenida los alisos,-11.979.462,-77.108.693
+avenida pacasmayo,avenida santa rosa,-11.982.234,-77.110.239
+avenida pacasmayo,san pablo,-11.983.077,-77.110.680
+avenida pacasmayo,avenida antigua pacasmayo,-11.985.829,-77.110.832
+avenida pacasmayo,avenida carlos izaguirre,-11.988.102,-77.111.623
+avenida pacasmayo,calle las palmeras 2,-11.994.703,-77.109.775
 los geranios 2,el sol de naranjal,-11.970.205,-77.095.990
-los geranios 2,calle jose olaya,,
-los geranios 2,calle maria parado de bellido,,
+los geranios 2,calle jose olaya,-11.975.751,-77.101.629
+los geranios 2,calle maria parado de bellido,-11.976.371,-77.102.253
 jiron las americas,el sol de naranjal,-11.970.902,-77.095.274
-miguel grau,el sol de naranjal,,
+miguel grau,el sol de naranjal,-11.971.613,-77.094.397
 avenida san jose,el sol de naranjal,-11.971.864,-77.094.194
-avenida san jose,san agustin,,
-avenida san jose,los robles,,
-avenida san jose,calle progreso,,
-avenida san jose,los canamos,,
-avenida san jose,calle las esmeraldas,,
-avenida san jose,jiron los pinares,,
-avenida san jose,avenida los alisos,,
+avenida san jose,san agustin,-11.972.208,-77.094.550
+avenida san jose,los robles,-11.972.488,-77.094.819
+avenida san jose,calle progreso,-11.973.299,-77.095.656
+avenida san jose,los canamos,-11.973.721,-77.096.045
+avenida san jose,calle las esmeraldas,-11.974.447,-77.096.824
+avenida san jose,jiron los pinares,-11.978.048,-77.100.313
+avenida san jose,avenida los alisos,-11.980.925,-77.103.134
 los portales de chavin,el sol de naranjal,-11.972.385,-77.093.372
 calle los claveles,el sol de naranjal,-11.972.659,-77.092.380
 calle los ficus,el sol de naranjal,-11.973.014,-77.091.181
-calle los ficus,calle los nogales,,
-calle los ficus,jiron los robles,,
+calle los ficus,calle los nogales,-11.974.308,-77.092.171
+calle los ficus,jiron los robles,-11.974.719,-77.092.395
 avenida canta callao,el sol de naranjal,-11.973.864,-77.088.405
-avenida canta callao,auxiliar avenida canta callao,,
-avenida canta callao,mariano usteriz y rivero,,
-avenida canta callao,avenida los alisos,,
-avenida canta callao,avenida los olivos,,
-avenida canta callao,avenida carlos izaguirre,,
-avenida canta callao,avenida los dominicos,,
-avenida canta callao,avenida pacasmayo,,
-avenida canta callao,avenida alejandro bertello bollati,,
-avenida canta callao,avenida canada,,
-los nogales,san nicolas,,
-los nogales,las orquideas,,
-los nogales,los eucaliptos,,
-el olivar,san nicolas,,
-el olivar,las orquideas,,
-el olivar,los eucaliptos,,
+avenida canta callao,auxiliar avenida canta callao,-11.974.885,-77.089.574
+avenida canta callao,mariano usteriz y rivero,-11.977.791,-77.092.868
+avenida canta callao,avenida los alisos,-11.981.445,-77.096.971
+avenida canta callao,avenida los olivos,-11.983.752,-77.099.551
+avenida canta callao,avenida carlos izaguirre,-11.988.906,-77.105.316
+avenida canta callao,avenida los dominicos,-11.990.735,-77.107.227
+avenida canta callao,avenida pacasmayo,-11.994.083,-77.110.295
+avenida canta callao,avenida alejandro bertello bollati,-11.996.634,-77.112.651
+avenida canta callao,avenida canada,-11.998.442,-77.114.453
+los nogales,san nicolas,-11.965.253,-77.110.871
+los nogales,las orquideas,-11.965.557,-77.110.571
+los nogales,los eucaliptos,-11.966.515,-77.109.605
+el olivar,san nicolas,-11.964.710,-77.110.226
+el olivar,las orquideas,-11.965.017,-77.109.948
+el olivar,los eucaliptos,-11.966.105,-77.108.982
 el olivar,avenida paramonga,-11.968.765,-77.105.961
-calle bolognesi,avenida pacasmayo,,
-calle bolognesi,calle alfonso ugarte,,
-avenida los alisos,auxiliar avenida canta callao,,
-avenida los alisos,avenida canta callao,,
-avenida los alisos,huascaran,,
-avenida los alisos,avenida los olivos,,
-avenida los alisos,avenida san jose,,
-avenida los alisos,girasoles,,
-avenida los alisos,avenida pacasmayo,,
-avenida los alisos,las margaritas,,
-avenida los alisos,santa isabel,,
-avenida los alisos,avenida 200 millas,,
-avenida santa rosa,avenida pacasmayo,,
-avenida santa rosa,las margaritas,,
-avenida santa rosa,san benito de palermo,,
-avenida santa rosa,santa maria,,
-avenida santa rosa,santa isabel,,
-avenida santa rosa,avenida antigua pacasmayo,,
-avenida santa rosa,orquideas,,
-san pablo,avenida pacasmayo,,
-san pablo,san benito de palermo,,
-san pablo,libertad,,
-san pablo,avenida antigua pacasmayo,,
-san pablo,tumbes,,
-san pablo,san felipe,,
-avenida antigua pacasmayo,avenida santa rosa,,
-avenida antigua pacasmayo,san juan,,
-avenida antigua pacasmayo,san pablo,,
-avenida antigua pacasmayo,avenida pacasmayo,,
-avenida carlos izaguirre,avenida alejandro bertello bollati,,
-avenida carlos izaguirre,avenida pacasmayo,,
-avenida carlos izaguirre,auxiliar avenida canta callao,,
-avenida carlos izaguirre,avenida canta callao,,
-calle jose olaya,los geranios 2,,
-calle jose olaya,calle alfonso ugarte,,
-calle maria parado de bellido,los geranios 2,,
-san agustin,avenida san jose,,
-san agustin,calle los rosales,,
-los robles,avenida san jose,,
-calle progreso,avenida san jose,,
-calle progreso,calle los rosales,,
-calle las esmeraldas,avenida san jose,,
-jiron los pinares,avenida san jose,,
-jiron los pinares,huascaran,,
-calle los nogales,calle los ficus,,
-calle los nogales,calle los girasoles,,
-calle los nogales,calle los duraznos,,
-calle los nogales,calle los alamos,,
-calle los nogales,auxiliar avenida canta callao,,
-jiron los robles,calle los ficus,,
-jiron los robles,calle carhuaz,,
-las orquideas,los nogales,,
-las orquideas,el olivar,,
-calle alfonso ugarte,calle jose olaya,,
-calle alfonso ugarte,calle miguel grau,,
-calle alfonso ugarte,calle bolognesi,,
-calle los jazmines,calle los rosales,,
-calle los jazmines,pasaje las amapolas,,
-calle los jazmines,san nicolas,-11.973.643,-77.117.652
-calle los rosales,calle los jazmines,,
-pasaje las amapolas,calle los jazmines,,
-pasaje las amapolas,calle las margaritas,,
-pasaje las amapolas,los geranios 1,,
-los geranios 1,pasaje las amapolas,,
+calle bolognesi,avenida pacasmayo,-11.973.189,-77.102.973
+calle bolognesi,calle alfonso ugarte,-11.974.584,-77.101.138
+avenida los alisos,auxiliar avenida canta callao,-11.981.408,-77.097.190
+avenida los alisos,avenida canta callao,-11.981.445,-77.096.971
+avenida los alisos,huascaran,-11.981.165,-77.099.852
+avenida los alisos,avenida los olivos,-11.981.070,-77.101.596
+avenida los alisos,avenida san jose,-11.980.925,-77.103.134
+avenida los alisos,girasoles,-11.979.833,-77.107.978
+avenida los alisos,avenida pacasmayo,-11.979.462,-77.108.693
+avenida los alisos,las margaritas,-11.979.182,-77.109.206
+avenida los alisos,santa isabel,-11.978.613,-77.110.149
+avenida los alisos,avenida 200 millas,-11.977.981,-77.111.358
+avenida santa rosa,avenida pacasmayo,-11.982.234,-77.110.239
+avenida santa rosa,las margaritas,-11.981.914,-77.110.622
+avenida santa rosa,san benito de palermo,-11.981.946,-77.110.641
+avenida santa rosa,santa maria,-11.980.913,-77.111.780
+avenida santa rosa,santa isabel,-11.980.667,-77.112.073
+avenida santa rosa,avenida antigua pacasmayo,-11.982.629,-77.109.671
+avenida santa rosa,orquideas,-11.983.866,-77.106.083
+san pablo,avenida pacasmayo,-11.983.077,-77.110.680
+san pablo,san benito de palermo,-11.982.819,-77.111.083
+san pablo,libertad,-11.982.241,-77.111.748
+san pablo,avenida antigua pacasmayo,-11.983.580,-77.110.054
+san pablo,tumbes,-11.982.008,-77.112.036
+san pablo,san felipe,-11.981.201,-77.112.249
+avenida antigua pacasmayo,avenida santa rosa,-11.982.629,-77.109.671
+avenida antigua pacasmayo,san juan,-11.983.132,-77.109.899
+avenida antigua pacasmayo,san pablo,-11.983.580,-77.110.054
+avenida antigua pacasmayo,avenida pacasmayo,-11.985.829,-77.110.832
+avenida carlos izaguirre,avenida alejandro bertello bollati,-11.987.946,-77.114.419
+avenida carlos izaguirre,avenida pacasmayo,-11.988.102,-77.111.623
+avenida carlos izaguirre,auxiliar avenida canta callao,-11.988.967,-77.105.618
+avenida carlos izaguirre,avenida canta callao,-11.988.906,-77.105.316
+calle jose olaya,los geranios 2,-11.975.751,-77.101.629
+calle jose olaya,calle alfonso ugarte,-11.975.411,-77.101.947
+calle maria parado de bellido,los geranios 2,-11.976.371,-77.102.253
+san agustin,avenida san jose,-11.972.208,-77.094.550
+san agustin,calle los rosales,-11.971.875,-77.094.919
+los robles,avenida san jose,-11.972.488,-77.094.819
+calle progreso,avenida san jose,-11.973.299,-77.095.656
+calle progreso,calle los rosales,-11.972.963,-77.096.006
+calle las esmeraldas,avenida san jose,-11.974.447,-77.096.824
+jiron los pinares,avenida san jose,-11.978.048,-77.100.313
+jiron los pinares,huascaran,-11.979.822,-77.098.508
+calle los nogales,calle los ficus,-11.974.308,-77.092.171
+calle los nogales,calle los girasoles,-11.974.489,-77.091.828
+calle los nogales,calle los duraznos,-11.974.704,-77.091.453
+calle los nogales,calle los alamos,-11.974.904,-77.091.111
+calle los nogales,auxiliar avenida canta callao,-11.975.388,-77.090.315
+jiron los robles,calle los ficus,-11.974.719,-77.092.395
+jiron los robles,calle carhuaz,-11.975.406,-77.091.182
+las orquideas,los nogales,-11.965.557,-77.110.571
+las orquideas,el olivar,-11.965.017,-77.109.948
+calle alfonso ugarte,calle jose olaya,-11.975.411,-77.101.947
+calle alfonso ugarte,calle miguel grau,-11.974.928,-77.101.482
+calle alfonso ugarte,calle bolognesi,-11.974.584,-77.101.138
+calle los jazmines,calle los rosales,-11.971.438,-77.117.651
+calle los jazmines,pasaje las amapolas,-11.971.734,-77.117.339
+calle los jazmines,san nicolas,-11.972.478,-77.116.558
+calle los rosales,calle los jazmines,-11.971.438,-77.117.651
+pasaje las amapolas,calle los jazmines,-11.971.734,-77.117.339
+pasaje las amapolas,calle las margaritas,-11.972.004,-77.117.577
+pasaje las amapolas,los geranios 1,-11.972.559,-77.118.093
+los geranios 1,pasaje las amapolas,-11.972.559,-77.118.093
 los geranios 1,san nicolas,-11.973.209,-77.117.334
-calle los girasoles,calle los nogales,,
-calle los duraznos,calle los nogales,,
-calle los alamos,calle los nogales,,
-auxiliar avenida canta callao,avenida canta callao,,
-auxiliar avenida canta callao,calle los nogales,,
-auxiliar avenida canta callao,calle los algarrobos,,
-auxiliar avenida canta callao,avenida los alisos,,
-auxiliar avenida canta callao,avenida los olivos,,
-auxiliar avenida canta callao,arequipa,,
-auxiliar avenida canta callao,avenida carlos izaguirre,,
-auxiliar avenida canta callao,avenida los dominicos,,
-auxiliar avenida canta callao,avenida pacasmayo,,
-auxiliar avenida canta callao,avenida alejandro bertello bollati,,
-auxiliar avenida canta callao,pisac,,
-auxiliar avenida canta callao,avenida canada,,
-calle los algarrobos,auxiliar avenida canta callao,,
-calle los algarrobos,calle carhuaz,,
-calle los algarrobos,calle los claveles,,
-calle los algarrobos,los portales de chavin,,
-arequipa,auxiliar avenida canta callao,,
-arequipa,orquideas,,
-mariano usteriz y rivero,avenida canta callao,,
-mariano usteriz y rivero,auxiliar avenida canta callao,,
-avenida los olivos,avenida los alisos,,
-avenida los olivos,auxiliar avenida canta callao,,
-avenida los olivos,avenida canta callao,,
-avenida los dominicos,auxiliar avenida canta callao,,
-avenida alejandro bertello bollati,auxiliar avenida canta callao,,
-avenida alejandro bertello bollati,avenida canta callao,,
-avenida alejandro bertello bollati,avenida pacasmayo,,
-avenida alejandro bertello bollati,avenida los pinos,,
-avenida alejandro bertello bollati,calle florence,,
-avenida alejandro bertello bollati,avenida carlos izaguirre,,
+calle los girasoles,calle los nogales,-11.974.489,-77.091.828
+calle los duraznos,calle los nogales,-11.974.704,-77.091.453
+calle los alamos,calle los nogales,-11.974.904,-77.091.111
+auxiliar avenida canta callao,avenida canta callao,-11.974.885,-77.089.574
+auxiliar avenida canta callao,calle los nogales,-11.975.388,-77.090.315
+auxiliar avenida canta callao,calle los algarrobos,-11.976.290,-77.091.374
+auxiliar avenida canta callao,avenida los alisos,-11.981.408,-77.097.190
+auxiliar avenida canta callao,avenida los olivos,-11.983.700,-77.099.685
+auxiliar avenida canta callao,arequipa,-11.986.983,-77.103.415
+auxiliar avenida canta callao,avenida carlos izaguirre,-11.988.967,-77.105.618
+auxiliar avenida canta callao,avenida los dominicos,-11.990.645,-77.107.328
+auxiliar avenida canta callao,avenida pacasmayo,-11.994.028,-77.110.430
+auxiliar avenida canta callao,avenida alejandro bertello bollati,-11.996.519,-77.112.708
+auxiliar avenida canta callao,pisac,-11.996.931,-77.113.209
+auxiliar avenida canta callao,avenida canada,-11.998.342,-77.114.605
+calle los algarrobos,auxiliar avenida canta callao,-11.976.290,-77.091.374
+calle los algarrobos,calle carhuaz,-11.976.001,-77.091.830
+calle los algarrobos,calle los claveles,-11.974.345,-77.094.063
+calle los algarrobos,los portales de chavin,-11.973.720,-77.094.725
+arequipa,auxiliar avenida canta callao,-11.986.983,-77.103.415
+arequipa,orquideas,-11.985.553,-77.106.347
+mariano usteriz y rivero,avenida canta callao,-11.977.791,-77.092.868
+mariano usteriz y rivero,auxiliar avenida canta callao,-11.978.097,-77.092.591
+avenida los olivos,avenida los alisos,-11.981.070,-77.101.596
+avenida los olivos,auxiliar avenida canta callao,-11.983.700,-77.099.685
+avenida los olivos,avenida canta callao,-11.983.752,-77.099.551
+avenida los dominicos,auxiliar avenida canta callao,-11.990.645,-77.107.328
+avenida alejandro bertello bollati,auxiliar avenida canta callao,-11.996.519,-77.112.708
+avenida alejandro bertello bollati,avenida canta callao,-11.996.634,-77.112.651
+avenida alejandro bertello bollati,avenida pacasmayo,-11.992.648,-77.114.114
+avenida alejandro bertello bollati,avenida los pinos,-11.993.062,-77.114.103
+avenida alejandro bertello bollati,calle florence,-11.990.911,-77.114.183
+avenida alejandro bertello bollati,avenida carlos izaguirre,-11.987.946,-77.114.419
 avenida alejandro bertello bollati,calle san carlos,,
-avenida alejandro bertello bollati,calle las palmeras 2,,
-avenida alejandro bertello bollati,calle 22,,
-avenida alejandro bertello bollati,alisos,,
-avenida alejandro bertello bollati,avenida colectora,,
-avenida alejandro bertello bollati,los cedros,,
-avenida alejandro bertello bollati,avenida boca negra,,
-avenida alejandro bertello bollati,calle misionero carbajal,,
-avenida alejandro bertello bollati,misionero vega,,
+avenida alejandro bertello bollati,calle las palmeras 2,-11.997.446,-77.112.266
+avenida alejandro bertello bollati,calle 22,-11.998.373,-77.111.787
+avenida alejandro bertello bollati,alisos,-12.001.738,-77.110.327
+avenida alejandro bertello bollati,avenida colectora,-12.002.774,-77.109.503
+avenida alejandro bertello bollati,los cedros,-12.003.430,-77.109.477
+avenida alejandro bertello bollati,avenida boca negra,-12.009.775,-77.106.032
+avenida alejandro bertello bollati,calle misionero carbajal,-12.014.443,-77.103.693
+avenida alejandro bertello bollati,misionero vega,-12.016.129,-77.102.873
 avenida alejandro bertello bollati,avenida el olivar,,
-avenida alejandro bertello bollati,avenida peru,,
-huascaran,avenida los alisos,,
-huascaran,jiron los pinares,,
-huascaran,calle los zafiros,,
-calle los zafiros,huascaran,,
+avenida alejandro bertello bollati,avenida peru,-12.019.792,-77.101.407
+huascaran,avenida los alisos,-11.981.165,-77.099.852
+huascaran,jiron los pinares,-11.979.822,-77.098.508
+huascaran,calle los zafiros,-11.976.318,-77.095.029
+calle los zafiros,huascaran,-11.976.318,-77.095.029
 calle los zafiros,calle las perlas,,
 calle las perlas,calle los zafiros,,
-girasoles,avenida los alisos,,
+girasoles,avenida los alisos,-11.979.833,-77.107.978
 girasoles,libertad,,
 girasoles,los claveles,,
-las margaritas,avenida los alisos,,
-las margaritas,avenida santa rosa,,
-santa isabel,avenida los alisos,,
+las margaritas,avenida los alisos,-11.979.182,-77.109.206
+las margaritas,avenida santa rosa,-11.981.914,-77.110.622
+santa isabel,avenida los alisos,-11.978.613,-77.110.149
 santa isabel,santa clara,,
 santa isabel,santa sofia,,
-santa isabel,avenida santa rosa,,
+santa isabel,avenida santa rosa,-11.980.667,-77.112.073
 avenida 200 millas,santa clara,,
-avenida 200 millas,avenida los alisos,,
-san benito de palermo,avenida santa rosa,,
+g,avenida los alisos,-11.977.981,-77.111.358
+san benito de palermo,avenida santa rosa,-11.981.946,-77.110.641
 san benito de palermo,san felipe,,
-san benito de palermo,san pablo,,
+san benito de palermo,san pablo,-11.982.819,-77.111.083
 santa maria,avenida santa rosa,,
 santa maria,santa sofia,,
 santa sofia,santa isabel,,
@@ -262,18 +262,18 @@ santa sofia,santa clara,,
 santa sofia,santa maria,,
 santa clara,santa sofia,,
 santa clara,avenida 200 millas,,
-orquideas,arequipa,,
-orquideas,avenida santa rosa,,
+orquideas,arequipa,-11.985.553,-77.106.347
+orquideas,avenida santa rosa,-11.983.866,-77.106.083
 libertad,girasoles,,
 libertad,campanillas,,
 campanillas,libertad,,
-tumbes,san pablo,,
+tumbes,san pablo,-11.982.008,-77.112.036
 san felipe,san benito de palermo,,
-san felipe,san pablo,,
+san felipe,san pablo,-11.981.201,-77.112.249
 calle carhuaz,calle los algarrobos,,
-calle las margaritas,pasaje las amapolas,,
+calle las margaritas,pasaje las amapolas,-11.972.004,-77.117.577
 las torres de los olivos,avenida josefina,-11.954.023,-77.105.622
-pisac,auxiliar avenida canta callao,,
+pisac,auxiliar avenida canta callao,-11.996.931,-77.113.209
 pisac,calle ollanta,,
 calle ollanta,pisac,,
 calle ollanta,pasaje cajamarca,,
@@ -284,8 +284,8 @@ pasaje cajamarca,pasaje tambomachay,,
 pasaje cajamarca,jose francisco,,
 pasaje cajamarca,pucura,,
 pasaje cajamarca,pasaje jorge colque,,
-avenida canada,avenida canta callao,,
-avenida canada,auxiliar avenida canta callao,,
+avenida canada,avenida canta callao,-11.998.442,-77.114.453
+avenida canada,auxiliar avenida canta callao,-11.998.342,-77.114.605
 avenida canada,avenida san juan macias,,
 avenida canada,calle ollanta,,
 avenida canada,pasaje tambomachay,,
@@ -324,48 +324,48 @@ alameda santa rosa,avenida cuzco,,
 alameda santa rosa,pasaje arequipa,,
 jiron tacna,avenida san juan macias,,
 jiron tacna,pucura,,
-avenida los pinos,avenida alejandro bertello bollati,,
+avenida los pinos,avenida alejandro bertello bollati,-11.993.062,-77.114.103
 avenida los pinos,pisac,,
 calle san carlos,avenida alejandro bertello bollati,,
-calle florence,avenida alejandro bertello bollati,,
+calle florence,avenida alejandro bertello bollati,-11.990.911,-77.114.183
 calle florence,manzana d,,
 manzana d,calle florence,,
-calle las palmeras 2,avenida alejandro bertello bollati,,
+calle las palmeras 2,avenida alejandro bertello bollati,-11.997.446,-77.112.266
 calle las palmeras 2,calle 22,,
 calle las palmeras 2,calle las lupuna 3,,
 calle las palmeras 2,calle las caobas,,
 calle las palmeras 2,calle los cibeles,,
 calle las palmeras 2,pasaje las hiedras,,
-calle las palmeras 2,avenida pacasmayo,,
-calle 22,avenida alejandro bertello bollati,,
+calle las palmeras 2,avenida pacasmayo,-11.994.703,-77.109.775
+calle 22,avenida alejandro bertello bollati,-11.998.373,-77.111.787
 calle 22,calle las lupuna 3,,
 calle 22,calle las caobas,,
-calle miguel grau,calle alfonso ugarte,,
-alisos,avenida alejandro bertello bollati,,
+calle miguel grau,calle alfonso ugarte,-11.974.928,-77.101.482
+alisos,avenida alejandro bertello bollati,-12.001.738,-77.110.327
 alisos,los alhelies,,
 alisos,alfa,,
 alisos,guirnaldas,,
 alisos,las colinas,,
-avenida colectora,avenida alejandro bertello bollati,,
+avenida colectora,avenida alejandro bertello bollati,-12.002.774,-77.109.503
 avenida colectora,calle las lupuna 3,,
 avenida colectora,pasaje los datiles,,
 avenida colectora,avenida pacasmayo,,
 avenida colectora,chimabamba,,
-los cedros,avenida alejandro bertello bollati,,
+los cedros,avenida alejandro bertello bollati,-12.003.430,-77.109.477
 los cedros,guirnaldas,,
 los cedros,avenida elmer faucett,,
 avenida boca negra,avenida elmer faucett,,
-avenida boca negra,avenida alejandro bertello bollati,,
+avenida boca negra,avenida alejandro bertello bollati,-12.009.775,-77.106.032
 avenida boca negra,avenida pacasmayo,,
 avenida boca negra,pasaje los datiles,,
 avenida boca negra,avenida los dominicos,,
-calle misionero carbajal,avenida alejandro bertello bollati,,
-misionero vega,avenida alejandro bertello bollati,,
+calle misionero carbajal,avenida alejandro bertello bollati,-12.014.443,-77.103.693
+misionero vega,avenida alejandro bertello bollati,-12.016.129,-77.102.873
 avenida tomas valle,avenida alejandro bertello bollati,,
 avenida tomas valle,avenida peru,,
 avenida tomas valle,auxiliar avenida tomas valle,,
 avenida tomas valle,avenida los proceres,,
-avenida peru,avenida alejandro bertello bollati,,
+avenida peru,avenida alejandro bertello bollati,-12.019.792,-77.101.407
 calle las lupuna 3,calle las palmeras 2,,
 calle las lupuna 3,calle 22,,
 calle las lupuna 3,avenida colectora,,
