@@ -233,7 +233,6 @@ avenida alejandro bertello bollati,los cedros,-12.003.430,-77.109.477
 avenida alejandro bertello bollati,avenida boca negra,-12.009.775,-77.106.032
 avenida alejandro bertello bollati,calle misionero carbajal,-12.014.443,-77.103.693
 avenida alejandro bertello bollati,misionero vega,-12.016.129,-77.102.873
-avenida alejandro bertello bollati,avenida el olivar,,
 avenida alejandro bertello bollati,avenida peru,-12.019.792,-77.101.407
 huascaran,avenida los alisos,-11.981.165,-77.099.852
 huascaran,jiron los pinares,-11.979.822,-77.098.508
@@ -405,108 +404,84 @@ avenida los proceres,auxiliar avenida angelica gamarra,-12.009.281,-77.087.561
 avenida los proceres,avenida angelica gamarra,-12.009.587,-77.087.510
 avenida los proceres,auxiliar avenida tomas valle,-12.012.056,-77.087.236
 avenida los proceres,avenida el olivar,-12.013.499,-77.087.179
-avenida los proceres,jiron los codornices,,
 avenida los proceres,calle las retamas,-12.014.354,-77.087.096
 avenida los proceres,jiron los sauces,-12.015.574,-77.086.795
 avenida los proceres,jiron pedro genaro delgado,-12.016.031,-77.086.750
-avenida los proceres,manuel telleria,,
-avenida los proceres,jose santos chocano,,
-avenida los proceres,domingo nieto,,
+avenida los proceres,domingo nieto,-12.017.951,-77.086.486
 avenida los proceres,arnaldo marquez,,
-avenida los proceres,ignacio alvarez thomas,,
-avenida los proceres,jiron jose maria cordova,,
-avenida los proceres,avenida jose granda,,
-avenida los proceres,jose m eguren,,
+avenida los proceres,ignacio alvarez thomas,-12.019.356,-77.086.267
+avenida los proceres,jiron jose maria cordova,-12.019.835,-77.086.208
+avenida los proceres,avenida jose granda,-12.021.304,-77.086.063
 auxiliar avenida angelica gamarra,auxiliar avenida tomas valle,,
-auxiliar avenida angelica gamarra,manuel bonilla,,
 auxiliar avenida angelica gamarra,avenida los proceres,-12.009.281,-77.087.561
-avenida angelica gamarra,manuel bonilla,,
 avenida angelica gamarra,avenida los proceres,-12.009.587,-77.087.510
 auxiliar avenida tomas valle,avenida los proceres,-12.012.056,-77.087.236
 avenida el olivar,avenida los proceres,-12.013.499,-77.087.179
-jiron los codornices,avenida los proceres,,
-jiron los codornices,calle cesar vallejo,,
-calle cesar vallejo,avenida el olivar,,
-calle cesar vallejo,auxiliar avenida tomas valle,,
-calle cesar vallejo,jiron los codornices,,
-calle cesar vallejo,jiron los sauces,,
 calle las retamas,avenida los proceres,-12.014.354,-77.087.096
-calle las retamas,calle las retamas,,
-calle las retamas,magnolias,,
-calle las retamas,luis alberto sanchez,,
-calle las retamas,ferre,,
 jiron los sauces,avenida los proceres,-12.015.574,-77.086.795
-jiron los sauces,calle cesar vallejo,,
 jiron pedro genaro delgado,avenida los proceres,-12.016.031,-77.086.750
-avenida german aguirre,avenida los proceres,,
-avenida german aguirre,domingo nieto,,
-avenida german aguirre,jose m eguren,,
-jose santos chocano,avenida los proceres,,
-jose santos chocano,magnolias,,
-jose santos chocano,pedro ruiz gallo,,
-jose santos chocano,luis alberto sanchez,,
-jose santos chocano,ferre,,
-jose santos chocano,canta,,
-jose santos chocano,nicanor asin,,
-jose santos chocano,jiron leoncio prado,,
-jose santos chocano,torre tagle,,
-magnolias,jose santos chocano,,
-pedro ruiz gallo,jose santos chocano,,
-luis alberto sanchez,jose santos chocano,,
-ferre,jose santos chocano,,
-canta,jose santos chocano,,
-nicanor asin,jose santos chocano,,
-jiron leoncio prado,jose santos chocano,,
-torre tagle,jose santos chocano,,
-domingo nieto,magnolias,,
-domingo nieto,avenida los proceres,,
-domingo nieto,manuel telleria,,
+avenida german aguirre,avenida los proceres,-12.017.039,-77.086.613
+avenida german aguirre,magnolias,-12.017.342,-77.084.494
+avenida german aguirre,pedro ruiz gallo,,
+avenida german aguirre,luis alberto sanchez,,
+avenida german aguirre,ferre,-12.017.613,-77.085.142
+avenida german aguirre,canta,,
+avenida german aguirre,nicanor asin,,
+avenida german aguirre,jiron leoncio prado,,
+jose santos chocano,avenida german aguirre,-12.017.190,-77.084.971
+magnolias,avenida german aguirre,-12.017.342,-77.084.494
+pedro ruiz gallo,avenida german aguirre,-12.017.690,-77.083.139
+luis alberto sanchez,avenida german aguirre,-12.017.895,-77.082.637
+ferre,avenida german aguirre,-12.018.047,-77.082.224
+canta,avenida german aguirre,-12.018.382,-77.081.321
+nicanor asin,avenida german aguirre,-12.018.547,-77.080.904
+jiron leoncio prado,avenida german aguirre,-12.018.740,-77.080.449
+torre tagle,jose santos chocano,-12.017.613,-77.085.142
+domingo nieto,avenida los proceres,-12.017.951,-77.086.486
 arnaldo marquez,avenida los proceres,,
-arnaldo marquez,magnolias,,
-ignacio alvarez thomas,avenida los proceres,,
-jiron jose maria cordova,avenida los proceres,,
-jiron jose maria cordova,toribio de luzuriaga,,
-avenida jose granda,avenida los proceres,,
-avenida jose granda,toribio de luzuriaga,,
-avenida jose granda,alameda canta,,
-jose m eguren,manuel telleria,,
-jose m eguren,avenida 12 de octubre,,
-jose m eguren,jose galvez,,
-jose m eguren,avenida los proceres,,
-jose m eguren,manuel bonilla,,
-jose m eguren,toribio de luzuriaga,,
-jose m eguren,jiron sergio bernales,,
-jose m eguren,alameda canta,,
-jose m eguren,jose maria barreto,,
-jose m eguren,emilio de la barrera,,
-jose m eguren,jiron pedro silva,,
-jose m eguren,oscar bernechea,,
-jose m eguren,navarro del agulla,,
-jose m eguren,jiron victor navarro,,
-jose m eguren,jiron enrique arnaez,,
-jose m eguren,jiron guillermo ramsey,,
-jose m eguren,calle german aparicio gomez sanchez,,
-jose m eguren,paz soldan,,
-jose m eguren,jiron pedro irigoyen,,
-jose m eguren,miguel aljovin,,
-jose m eguren,avenida universitaria,,
-manuel telleria,jose m eguren,,
-avenida 12 de octubre,jose m eguren,,
-jose galvez,jose m eguren,,
-manuel bonilla,jose m eguren,,
-toribio de luzuriaga,jose m eguren,,
-jiron sergio bernales,jose m eguren,,
-alameda canta,jose m eguren,,
-jose maria barreto,jose m eguren,,
-emilio de la barrera,jose m eguren,,
-jiron pedro silva,jose m eguren,,
-oscar bernechea,jose m eguren,,
-navarro del agulla,jose m eguren,,
-jiron victor navarro,jose m eguren,,
-jiron enrique arnaez,jose m eguren,,
-jiron guillermo ramsey,jose m eguren,,
-calle german aparicio gomez sanchez,jose m eguren,,
-paz soldan,jose m eguren,,
-jiron pedro irigoyen,jose m eguren,,
-miguel aljovin,jose m eguren,,
-avenida universitaria,jose m eguren,,
+ignacio alvarez thomas,avenida los proceres,-12.019.356,-77.086.267
+jiron jose maria cordova,avenida los proceres,-12.019.835,-77.086.208
+jiron jose maria cordova,toribio de luzuriaga,-12.020.390,-77.083.784
+avenida jose granda,avenida los proceres,-12.021.304,-77.086.063
+avenida jose granda,toribio de luzuriaga,-12.022.057,-77.084.550
+avenida jose granda,alameda canta,-12.022.731,-77.083.125
+avenida jose granda,manuel telleria,-12.020.334,-77.088.087
+avenida jose granda,avenida 12 de octubre,-12.021.393,-77.086.191
+avenida jose granda,jose galvez,-12.021.456,-77.085.779
+avenida jose granda,manuel bonilla,-12.021.989,-77.084.953
+avenida jose granda,toribio de luzuriaga,-12.022.038,-77.084.546
+avenida jose granda,jiron sergio bernales,-12.022.597,-77.083.714
+avenida jose granda,alameda canta,-12.022.684,-77.083.253
+avenida jose granda,jose maria barreto,-12.023.091,-77.082.684
+avenida jose granda,emilio de la barrera,-12.023.309,-77.082.250
+avenida jose granda,jiron pedro silva,-12.023.545,-77.081.497
+avenida jose granda,oscar bernechea,-12.023.909,-77.081.025
+avenida jose granda,navarro del agulla,-12.024.096,-77.080.620
+avenida jose granda,jiron victor navarro,-12.023.999,-77.080.516
+avenida jose granda,jiron enrique arnaez,-12.024.775,-77.078.979
+avenida jose granda,jiron guillermo ramsey,-12.024.992,-77.078.136
+avenida jose granda,calle german aparicio gomez sanchez,-12.025.139,-77.077.662
+avenida jose granda,paz soldan,-12.025.408,-77.077.318
+avenida jose granda,jiron pedro irigoyen,-12.025.518,-77.076.689
+avenida jose granda,miguel aljovin,-12.025.789,-77.076.260
+avenida jose granda,avenida universitaria,-12.026.442,-77.075.545
+manuel telleria,avenida jose granda,-12.020.334,-77.088.087
+avenida 12 de octubre,avenida jose granda,-12.021.393,-77.086.191
+jose galvez,avenida jose granda,-12.021.456,-77.085.779
+manuel bonilla,avenida jose granda,-12.021.989,-77.084.953
+toribio de luzuriaga,avenida jose granda,-12.022.038,-77.084.546
+jiron sergio bernales,avenida jose granda,-12.022.597,-77.083.714
+alameda canta,avenida jose granda,-12.022.684,-77.083.253
+jose maria barreto,avenida jose granda,-12.023.091,-77.082.684
+emilio de la barrera,avenida jose granda,-12.023.309,-77.082.250
+jiron pedro silva,avenida jose granda,-12.023.545,-77.081.497
+oscar bernechea,avenida jose granda,-12.023.909,-77.081.025
+navarro del agulla,avenida jose granda,-12.024.096,-77.080.620
+jiron victor navarro,avenida jose granda,-12.023.999,-77.080.516
+jiron enrique arnaez,avenida jose granda,-12.024.775,-77.078.979
+jiron guillermo ramsey,avenida jose granda,-12.024.992,-77.078.136
+calle german aparicio gomez sanchez,avenida jose granda,-12.025.139,-77.077.662
+paz soldan,avenida jose granda,-12.025.408,-77.077.318
+jiron pedro irigoyen,avenida jose granda,-12.025.518,-77.076.689
+miguel aljovin,avenida jose granda,-12.025.789,-77.076.260
+avenida universitaria,avenida jose granda,-12.026.442,-77.075.545
