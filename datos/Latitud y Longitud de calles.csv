@@ -492,7 +492,7 @@ calle e,avenida el sauce,-11.961.257,-77.104.261
 calle 28 de mayo,los alelis,-11.964.707,-77.094.784
 calle 28 de mayo,las cantutas,-11.964.106,-77.093.959
 calle llata,avenida tantamayo,-11.970.154,-77.087.066
-jiron las americas,circa las dalias,,
+jiron las americas,circa las dalias,-11.970.585,-77.094.846
 los canamos,avenda san jose,-11.973.720,-77.096.054
 calle las esmeraldas,calle los pinos,-11.974.782,-77.096.481
 las orquideas,los ficus,-11.965.314,-77.110.266
@@ -503,14 +503,13 @@ calle las perlas,calle los topacios,-11.975.770,-77.095.148
 calle las perlas,calle los pinos,-11.974.632,-77.096.312
 las margaritas,las dalias,-11.981.549,-77.110.429
 santa maria,las dalias,-11.980.641,-77.111.512
-tumbes,san antonio,,
+tumbes,san antonio,-11.983.188,-77.113.080
 san juan,avenida antigua de pacasmayo,-11.983.130,-77.109.896
 calle carhuaz,calle caraz,-11.976.398,-77.092.274
 calle las margaritas,calle las palmeras,-11.972.376,-77.117.211
 avenida canada,pucara,-11.998.174,-77.118.054
 pasaje tambomachay,pasaje madre de dios,-11.995.830,-77.117.611
 pasaje tambomachay,pasaje abancay,-11.996.242,-77.117.460
-jose francisco,pucara,,
 pucura,pasaje abancay,-11.997.741,-77.119.204
 pucura,pasaje madre de dios,-11.997.576,-77.119.598
 pasaje jorge colque,pasaje abancay,-11.998.713,-77.119.707
@@ -534,46 +533,45 @@ auxiliar avenida tomas valle,jiron las codornices,-12.012.017,-77.089.270
 avenida tomas valle,jiron las codornices,-12.011.646,-77.089.304
 avenida tomas valle,calle pedro unanue,-12.012.928,-77.082.643
 avenida tomas valle,avenida universitaria,-12.012.811,-77.079.082
-avenida el olivar,jiron los codornices,,
-avenida el olivar,margaritas,,
-jiron los codornices,avenida tomas valle,,
-jiron los codornices,auxiliar avenida tomas valle,,
-jiron los codornices,el jilguero,,
-jiron los codornices,avenida el olivar,,
-jiron los codornices,margaritas,,
-jiron los codornices,los tumbos,,
-jiron los codornices,avenida condevilla,,
-jiron los codornices,calle las retamas,,
+avenida el olivar,jiron los codornices,-12.013.816,-77.088.108
+avenida el olivar,margaritas,-12.014.097,-77.088.317
+jiron los codornices,avenida tomas valle,-12.011.877,-77.089.300
+jiron los codornices,auxiliar avenida tomas valle,-12.011.410,-77.089.384
+jiron los codornices,el jilguero,-12.013.357,-77.088.405
+jiron los codornices,avenida el olivar,-12.013.506,-77.087.186
+jiron los codornices,margaritas,-12.014.552,-77.087.692
+jiron los codornices,los tumbos,-12.014.751,-77.087.603
+jiron los codornices,avenida condevilla,-12.015.827,-77.087.370
+jiron los codornices,calle las retamas,-12.014.526,-77.087.642
 calle cesar vallejo,avenida los proceres,-12.014.355,-77.086.945
-calle cesar vallejo,calle cesar vallejo,,
-calle cesar vallejo,calle los quinuales,,
-calle cesar vallejo,jose santos chocano,,
-calle cesar vallejo,pedro ruiz gallo,,
-calle cesar vallejo,luis alberto sanchez,,
-calle las retamas,jiron los codornices,,
-calle las retamas,margaritas,,
-jiron los sauces,calle los quinuales,,
-jiron pedro genaro delgado,torre tagle,,
-jiron pedro genaro delgado,andres avelino caceres,,
-jiron pedro genaro delgado,thomas cochrane,,
-jiron pedro genaro delgado,avenida jose granda,,
-avenida german aguirre,jose santos chocano,,
-avenida german aguirre,clemente palma,,
-avenida german aguirre,jiron isolina soto,,
-avenida german aguirre,avenida universitaria,,
-torre tagle,avenida los proceres,,
-torre tagle,jiron leonardo ortiz salcedo,,
-torre tagle,jiron pedro genaro delgado,,
-domingo nieto,jose santos chocano,,
-arnaldo marquez,pedro bermudez,,
-arnaldo marquez,agustin gamarra,,
-ignacio alvarez thomas,pedro bermudez,,
-ignacio alvarez thomas,jose galvez,,
-ignacio alvarez thomas,jiron leonardo ortiz salcedo,,
-jiron jose maria cordova,jose galvez,,
-jiron jose maria cordova,quijano lazo,,
-jiron jose maria cordova,mendiburu y bonet,,
-avenida jose granda,jiron pedro genaro delgado,,
-avenida jose granda,jose m eguren,,
-jiron pedro genaro delgado,avenida jose granda,,
-jose m eguren,avenida jose granda,,
+calle cesar vallejo,calle los quinuales,-12.014.304,-77.086.487
+calle cesar vallejo,jose santos chocano,-12.014.935,-77.084.090
+calle cesar vallejo,pedro ruiz gallo,-12.015.604,-77.082.300
+calle cesar vallejo,luis alberto sanchez,-12.015.750,-77.081.862
+calle las retamas,jiron los codornices,-12.014.526,-77.087.642
+calle las retamas,margaritas,-12.014.541,-77.087.658
+jiron los sauces,calle los quinuales,-12.015.650,-77.086.337
+jiron pedro genaro delgado,torre tagle,-12.017.067,-77.088.297
+jiron pedro genaro delgado,andres avelino caceres,-12.017.431,-77.088.544
+jiron pedro genaro delgado,thomas cochrane,-12.019.075,-77.089.591
+jiron pedro genaro delgado,avenida jose granda,-12.019.485,-77.089.798
+avenida german aguirre,jose santos chocano,-12.017.190,-77.084.971
+avenida german aguirre,clemente palma,-12.019.553,-77.078.275
+avenida german aguirre,jiron isolina soto,-12.019.627,-77.076.814
+avenida german aguirre,avenida universitaria,-12.019.375,-77.076.334
+torre tagle,avenida los proceres,-12.017.555,-77.086.722
+torre tagle,jiron leonardo ortiz salcedo,-12.017.616,-77.087.187
+torre tagle,jiron pedro genaro delgado,-12.017.054,-77.088.306
+domingo nieto,jose santos chocano,-12.018.016,-77.085.295
+arnaldo marquez,pedro bermudez,-12.018.316,-77.085.912
+arnaldo marquez,agustin gamarra,-12.018.442,-77.085.467
+ignacio alvarez thomas,pedro bermudez,-12.019.317,-77.085.803
+ignacio alvarez thomas,jose galvez,-12.019.421,-77.084.949
+ignacio alvarez thomas,jiron leonardo ortiz salcedo,-12.019.443,-77.086.946
+jiron jose maria cordova,jose galvez,-12.019.884,-77.085.143
+jiron jose maria cordova,quijano lazo,-12.020.035,-77.084.726
+jiron jose maria cordova,mendiburu y bonet,-12.020.189,-77.084.316
+avenida jose granda,jiron pedro genaro delgado,-12.019.498,-77.089.820
+avenida jose granda,jose m eguren,-12.019.932,-77.088.880
+jiron pedro genaro delgado,avenida jose granda,-12.019.498,-77.089.820
+jose m eguren,avenida jose granda,-12.019.932,-77.088.880
