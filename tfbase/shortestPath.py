@@ -50,16 +50,18 @@ def findShortestPath(graph, s, ignore):
 def getDirections(s, d, graph):
     neighbours = graph[s]
     paths = []
+    costs = []
 
     for n in neighbours:
         path, cost = findShortestPath(mapW, n[0], s)
         path = definePath(d, path)
         path.insert(0, s)
         paths.append(path)
-        print(path, cost[d])
+        costs.append(cost[d])
+    return paths, costs
 
 # desde donde quiero empezar a buscar
-source = 299
+source = 10
 # a donde quiero llegar
-destination = 283
-print(getDirections(source, destination, mapW))
+destination = 27
+paths, costs = getDirections(source, destination, mapW)

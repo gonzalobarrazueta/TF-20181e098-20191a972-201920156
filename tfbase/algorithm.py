@@ -1,11 +1,9 @@
 import json
+import visualizations 
 
 def graph():
-    Loc = [(10, 10), (10, 24), (23, 22), (22, 11)]
-    G = [[(1, 2), (3, 1)],
-         [(2, 3)],
-         [(3, 3)],
-         []]
+    Loc = visualizations.coordinates
+    G = visualizations.graph
 
     response = {"loc": Loc, "g": G}
 
