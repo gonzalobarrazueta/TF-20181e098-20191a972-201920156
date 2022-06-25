@@ -1,4 +1,8 @@
 from mainGraph import *
+from perlin_noise import PerlinNoise
+import matplotlib.pyplot as plt
+import numpy as np
+import random
 
 def formatearLatitudeorLongitude(input):
     separar = input
@@ -32,4 +36,3 @@ def createLatLongDictionary(latlong):
     return latlong
      
 latlong = createLatLongDictionary({})
-print(latlong)
