@@ -60,8 +60,42 @@ def getDirections(s, d, graph):
         costs.append(cost[d])
     return paths, costs
 
+def getBestPaths(paths, costs):
+    bestCosts = [(i, x) for i, x in enumerate(costs)]
+    bestCosts.sort(key=lambda x:x[1])
+    
+    n = len(bestCosts)
+    if n > 3:
+        bestCosts = [bestCosts[i] for i in range(3)]
+    else:
+        bestCosts = [bestCosts[i] for i in range(n)]
+
+    bestPaths = [paths[c[0]] for c in bestCosts]
+    
+    return bestPaths
+
+# si el costo es inf, significa que no existe un camino
+def aPathExists(paths, costs):
+    for i, cost in enumerate(costs):
+        if cost == float('Inf'):
+            paths[i] = []
+
+def deleteInvalidPaths(paths, costs):
+    for i, p in enumerate(paths):
+        if p == []:
+            paths.pop(i)
+            costs.pop(i)
+
 # desde donde quiero empezar a buscar
 source = 10
 # a donde quiero llegar
 destination = 27
 paths, costs = getDirections(source, destination, mapW)
+
+# elimina caminos inválidos (no existentes)
+aPathExists(paths, costs)
+deleteInvalidPaths(paths, costs)
+
+# retorna los mejores caminos
+paths = getBestPaths(paths, costs)
+costs.sort()
