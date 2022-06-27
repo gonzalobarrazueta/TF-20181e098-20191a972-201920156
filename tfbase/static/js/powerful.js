@@ -17,41 +17,79 @@
 		left:   10
 	};
 	const box    = {
-		width:   990,
-		height:  695,
-		bwidth:  990 - margin.left - margin.right,
-	  bheight: 695 - margin.top - margin.bottom
+		width: 1600,
+		height: 1000,
+		bwidth: 1600 - margin.left - margin.right,
+	  bheight: 1000 - margin.top - margin.bottom,
 	};
 
 	// Canvas y elementos
+  
+  const bod = document.querySelector("body");
+	const ctx = document.querySelector("#canvitas").getContext("2d");
+	if (!ctx) {
+		console.log("something terribly wrong is going on here");
+		return;
+	}
 
-	const svg = d3
-		.select("#box")
-		.append("svg")
-		.attr("width", box.width)
-		.attr("height", box.height);
+	const extentx = d3.extent(graph.loc, d => d[0]);
+	const extenty = d3.extent(graph.loc, d => d[1]);
 
-	const g = svg.append("g")
-		.attr("transform", `translate(${margin.left}, ${margin.top})`);
+	const w = extentx[1] - extentx[0];
+	const h = extenty[1] - extenty[0];
 
-	const [lon, lat] = [d => d[0], d => d[1]];
-	const lineGenerator = d3.line().x(lon).y(lat);
-	const line = g.append("path")
-		.attr("d", lineGenerator(graph.loc))
-		.attr("fill", "none")
-		.attr("stroke", "Gold")
-		.attr("stroke-width", 1.5)
-		.attr("opacity", 0.75);
-	const dots = g.selectAll("circle")
-		.data(graph.loc)
-		.enter()
-		.append("circle")
-		.attr("cx", lon)
-		.attr("cy", lat)
-		.attr("r", 2.2)
-		.attr("fill", "Orange")
-		.attr("opacity", 0.75);
+	const [lon, lat] = [d => scalex(d[0]), d => scaley(d[1])];
 
+	const edges = [];
+	
+	for (const u in graph.g) {
+		if (graph.g[u] === -1) continue; 
+		for (const [v, w] of graph.g[u]) {
+			edges.push([
+				graph.loc[u],
+				graph.loc[u],
+				graph.loc[v],
+				graph.loc[v],
+			])
+		}
+	}
+	const x1 = d => lon(d[0]);
+	const y1 = d => lat(d[1]);
+	const x2 = d => lon(d[2]);
+	const y2 = d => lat(d[3]);
+
+  function render() {
+    ctx.beginPath();
+    ctx.strokeStyle = 'white';
+    for (const edge of edges) {
+      ctx.moveTo(x1(edge), y1(edge));
+      ctx.lineTo(x2(edge), y2(edge));
+    }
+    ctx.stroke();
+  }
+  
+  ctx.canvas.width = box.width;
+  ctx.canvas.height = box.height;
+  
+  let size = 0;
+  let xpro = 1;
+  let ypro = 1;
+  if (w > h) {
+    size = box.bwidth - margin.right;
+    ypro = h / w;
+  } else {
+    size = box.bheight - margin.bottom
+    xpro = w / h;
+  }
+
+  scalex = d3.scaleLinear()
+    .domain(extentx)
+    .range([margin.left, size * xpro]);
+  scaley = d3.scaleLinear()
+    .domain(extenty)
+    .range([size * ypro, margin.top]);
+
+  render()
 	// Funciones y eventos
 
 	// Empezamos

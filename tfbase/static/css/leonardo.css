@@ -10,9 +10,9 @@ html {
 body {
 }
 #box {
-	background: SlateGray;
+	background: Gainsboro;
 	margin: 0 auto;
-	width: 990px;
+	width: 100%;
 }
 
 /* vim: set tabstop=2:softtabstop=2:shiftwidth=2:noexpandtab */

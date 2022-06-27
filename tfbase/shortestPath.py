@@ -87,9 +87,9 @@ def deleteInvalidPaths(paths, costs):
             costs.pop(i)
 
 # desde donde quiero empezar a buscar
-source = 10
+source = 15
 # a donde quiero llegar
-destination = 27
+destination = 30
 paths, costs = getDirections(source, destination, mapW)
 
 # elimina caminos inválidos (no existentes)
