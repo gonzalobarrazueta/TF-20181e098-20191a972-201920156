@@ -11,7 +11,7 @@ def latlongGraph(dictionary):
 
 def getGraph(graph):
     n = len(graph) + 10
-    G = [-1] * n
+    G = [[(510, 0)]] * n
 
     for key, value in graph.items():
         G[key] = value

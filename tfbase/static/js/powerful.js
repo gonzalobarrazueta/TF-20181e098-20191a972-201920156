@@ -41,9 +41,9 @@
 	const [lon, lat] = [d => scalex(d[0]), d => scaley(d[1])];
 
 	const edges = [];
-	
+
 	for (const u in graph.g) {
-		if (graph.g[u] === -1) continue; 
+		//if (graph.g[u] === -1) continue; 
 		for (const [v, w] of graph.g[u]) {
 			edges.push([
 				graph.loc[u],
