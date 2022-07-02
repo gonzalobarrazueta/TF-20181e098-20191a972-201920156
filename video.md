@@ -1,1 +1,2 @@
-[Enlace de la exposición](https://youtu.be/2NpHb1qRxmg)
+# **Exposición del trabajo final**
+[Enlace del video de la exposición](https://youtu.be/gZaOBfvUe1s)
