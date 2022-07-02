@@ -28,4 +28,10 @@ Además, a cada arista, se le agrega un valor aleatorio, generado por Perlin Noi
 
 <img src="imgs/graphRandValues.png" width="500"/>
 
+### **Algoritmo de búsqueda**
+Para hallar los caminos más cortos de 1 punto hacia otro, utilicé Dijkstra. Este algoritmo encuentra todos los caminos desde un vértice hasta todos los demás. Por esta razón, decidí tomar todos los vecinos de mi nodo de inicio e implementar el algoritmo de búsqueda por cada nodo vecino hacia el mismo destino. De esta forma, tendría podría obtener diversos caminos. Además el valor de retorno serían 2 arreglos: 1 de los diferentes caminos posibles y, el otro, de costos.
+
 ## **Conclusiones**
+- Las funcionalidades de las aplicaciones de mapas nos permiten analizar diversas formas sobre cómo podemos implementar un algoritmo de la manera más eficaz.
+- El presente proyecto me ha permitido evaluar la manera cómo podría representar de datos y la manera cómo registrarlos para poder trabajar con ellos lo más fácil posible en el código.
+- Los algoritmos de búsqueda y los grafos nos permiten similar caminos desde un punto determinado hacia otros. En este proyecto, se evaluó cuál el mejor algoritmo para nuestro código, pero que también nos devuelva los resultados esperados.
