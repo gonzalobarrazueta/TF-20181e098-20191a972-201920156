@@ -22,10 +22,10 @@ En el programa, cada calle del grafo está identificado por un número. La Aveni
 ### **Aristas del grafo**
 En el grafo, una arista representa la unión de 2 intersecciones de calles. En el siguiente ejemplo, el vértice (Avenida Alisos – Las Lilas) está unido con (Las Lilas – Los Laureles) por medio de una arista.
 
-![alt text](imgs/aristas.png)
+<img src="imgs/aristas.png" width="300"/>
 
 Además, a cada arista, se le agrega un valor aleatorio, generado por Perlin Noise. Este valor, posteriormente, nos ayudará a asignarle un peso a cada arista del grafo. En código, se ve así: 
 
-![Grafo con valores aleatorios](imgs/graphRandValues.png)
+<img src="imgs/graphRandValues.png" width="500"/>
 
 ## **Conclusiones**
