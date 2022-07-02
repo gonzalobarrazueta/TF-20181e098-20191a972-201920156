@@ -8,4 +8,24 @@ Muchas de las funcionalidades principales que estas aplicaciones tienen pueden s
 - Consolidar los conocimientos adquiridos en el curso de Complejidad Algorítmica en un proyecto integrador.
 - Poner en práctica la capacidad de resolución de problemas y organización de tiempo para el proyecto.
 - Encontrar una ruta óptima entre 2 puntos determinados.
+
+## **Elaboración del programa**
+
+### **Registro de calles**
+Nosotros registramos el nombre de cada calle y el nombre de las calles con las que cada una se interseca. En código, a cada calle le asignamos un identificador numérico y lo guardamos en un diccionario al que llamamos streetsDictionary, donde las keys son los nombres de las calles y los values son los identificadores.
+
+### **Vértices del grafo**
+En el programa, cada calle del grafo está identificado por un número. La Avenida Los Olivos, por ejemplo, se representa con el número 62. Asimismo, la Avenida Canta Callao está representada por el número 30. De esta forma, los vértices del grafo representan una intersección entre 2 calles. En la imagen, por ejemplo, se puede observar el vértice (62, 30).
+
+![alt text](imgs/interseccion.png)
+
+### **Aristas del grafo**
+En el grafo, una arista representa la unión de 2 intersecciones de calles. En el siguiente ejemplo, el vértice (Avenida Alisos – Las Lilas) está unido con (Las Lilas – Los Laureles) por medio de una arista.
+
+![alt text](imgs/aristas.png)
+
+Además, a cada arista, se le agrega un valor aleatorio, generado por Perlin Noise. Este valor, posteriormente, nos ayudará a asignarle un peso a cada arista del grafo. En código, se ve así: 
+
+![Grafo con valores aleatorios](imgs/graphRandValues.png)
+
 ## **Conclusiones**
